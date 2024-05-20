@@ -19,7 +19,7 @@
 
 - Estudiante de 4 semestre en la Carrera de ingeniería de Software
 - Universidad Técnica Ambato
-- Página Personal [link](https://www.0xabdulkhalid.ml)
+- Página Personal [link](https://w1llan.github.io/PerfilGitPage/)
 - Siempre buscando nuevas oportunidades para el aprendizaje
 
 <br><br>
