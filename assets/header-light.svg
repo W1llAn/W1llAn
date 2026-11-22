@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="t d">
+  <title id="t">William Chimborazo</title>
+  <desc id="d">Terminal: will@cachyos ~ ❯ whoami — William Chimborazo, Desarrollador de Software · Java / Spring Boot</desc>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a10a28"/>
+      <stop offset="1" stop-color="#690920"/>
+    </linearGradient>
+    <clipPath id="window"><rect x="10" y="10" width="1180" height="240" rx="22"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+    .label { font-size: 12px; letter-spacing: 3px; fill: #6b7172; }
+    .prompt { font-size: 18px; fill: #3a4446; }
+    .user { fill: #a10a28; font-weight: 700; }
+    .arrow { fill: #a10a28; }
+    .cmd { fill: #111c1e; }
+    .name { font-size: 54px; font-weight: 800; fill: #111c1e; letter-spacing: -1px; }
+    .headline { font-size: 17px; letter-spacing: 4px; fill: #3a4446; }
+    .k { animation: show .01s linear backwards; }
+    .k1 { animation-delay: .5s; } .k2 { animation-delay: .65s; } .k3 { animation-delay: .8s; }
+    .k4 { animation-delay: .95s; } .k5 { animation-delay: 1.1s; } .k6 { animation-delay: 1.25s; }
+    .caret { fill: #a10a28; animation: blink 1s steps(1, end) infinite; }
+    .caret-typing { animation: blink .5s steps(1, end) 3, hide .01s linear 1.5s forwards; }
+    .out-1 { animation: rise .5s ease-out 1.5s backwards; }
+    .out-2 { animation: rise .5s ease-out 1.8s backwards; }
+    .out-3 { animation: show .01s linear 2.2s backwards; }
+    @keyframes hide { to { opacity: 0; } }
+    @keyframes show { from { opacity: 0; } }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .k, .caret, .out-1, .out-2, .out-3 { animation: none; }
+      .caret-typing { opacity: 0; }
+    }
+  </style>
+
+  <!-- Ventana: relleno base, borde degradado accent → accentDark y esquinas redondeadas -->
+  <rect x="10" y="10" width="1180" height="240" rx="22" fill="#f7f7f5"/>
+  <g clip-path="url(#window)">
+    <rect x="10" y="10" width="1180" height="38" fill="#ebecea"/>
+    <rect x="10" y="48" width="1180" height="1" fill="#d6d8d5"/>
+  </g>
+  <rect x="10" y="10" width="1180" height="240" rx="22" fill="none" stroke="url(#border)" stroke-width="2.5"/>
+
+  <!-- Barra de título: píldoras de workspace (activa alargada) y etiqueta mono -->
+  <rect x="32" y="23" width="26" height="12" rx="6" fill="#a10a28"/>
+  <circle cx="72" cy="29" r="4" fill="#6b7172"/>
+  <circle cx="88" cy="29" r="4" fill="#6b7172"/>
+  <circle cx="104" cy="29" r="4" fill="#6b7172"/>
+  <text class="label" x="600" y="34" text-anchor="middle">WILL@CACHYOS · ~</text>
+  <text class="label" x="1168" y="34" text-anchor="end">HYPRLAND</text>
+
+  <!-- Prompt y comando que se escribe -->
+  <text class="prompt" x="44" y="88"><tspan class="user">will@cachyos</tspan> ~ <tspan class="arrow">❯</tspan> <tspan class="cmd"><tspan class="k k1">w</tspan><tspan class="k k2">h</tspan><tspan class="k k3">o</tspan><tspan class="k k4">a</tspan><tspan class="k k5">m</tspan><tspan class="k k6">i</tspan></tspan><tspan class="caret caret-typing">▌</tspan></text>
+
+  <!-- Salida -->
+  <text class="name out-1" x="44" y="156">William Chimborazo</text>
+  <text class="headline out-2" x="46" y="194">DESARROLLADOR DE SOFTWARE · JAVA / SPRING BOOT</text>
+
+  <!-- Nuevo prompt con cursor parpadeando -->
+  <g class="out-3">
+    <text class="prompt" x="44" y="232"><tspan class="user">will@cachyos</tspan> ~ <tspan class="arrow">❯</tspan> <tspan class="caret">▌</tspan></text>
+  </g>
+</svg>
