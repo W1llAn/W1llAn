@@ -5,27 +5,25 @@
 </picture>
 
 <p align="center">
-  <img alt="Desarrollador de Software · Java / Spring Boot · Firma electrónica PAdES · Envelope encryption · Correos automáticos · Reportería con JasperReports" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A10A28&center=true&vCenter=true&width=640&lines=Desarrollador+de+Software+%C2%B7+Java+%2F+Spring+Boot;Firma+electr%C3%B3nica+PAdES;Custodia+de+documentos+con+envelope+encryption;Correos+autom%C3%A1ticos+de+vencimiento;Reporter%C3%ADa+con+JasperReports">
+  <img alt="Desarrollador de Software · Backend con Java y Spring Boot · APIs REST · Bases de datos · Frontend con React y Angular" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A10A28&center=true&vCenter=true&width=640&lines=Desarrollador+de+Software;Backend+con+Java+y+Spring+Boot;APIs+REST+y+bases+de+datos;Frontend+con+React+y+Angular">
 </p>
 
 ## Sobre mí
 
 Desarrollador de software con enfoque backend en **Java** y **Spring Boot**, desde Ambato, Ecuador.
-En **EEASA** desarrollo un sistema web interno: firma electrónica de documentos, custodia cifrada, avisos automáticos de vencimiento y reportería.
-Antes, como freelance, construí APIs REST con Spring Boot y frontends con React.
+Construyo aplicaciones web de punta a punta: APIs REST, bases de datos, integraciones y frontends con React y Angular.
 
 <details>
 <summary>English</summary>
 <br>
 
 Software developer focused on backend with **Java** and **Spring Boot**, based in Ambato, Ecuador.
-At **EEASA** I develop an internal web system: electronic document signing, encrypted custody, automatic expiry notices and reporting.
-Before that, as a freelancer, I built REST APIs with Spring Boot and frontends with React.
+I build web applications end to end: REST APIs, databases, integrations and frontends with React and Angular.
 
 </details>
 
 <p align="center">
-  <a href="https://w1llan.github.io/portfolio/"><img alt="Ver mi portafolio" src="https://img.shields.io/badge/Ver_mi_portafolio-w1llan.github.io%2Fportfolio-A10A28?style=for-the-badge&logo=hyprland&logoColor=white&labelColor=111C1E"></a>
+  <a href="https://w1llan.github.io/portfolio/" target="_blank" rel="noopener noreferrer"><img alt="Ver mi portafolio" src="https://img.shields.io/badge/Ver_mi_portafolio-w1llan.github.io%2Fportfolio-A10A28?style=for-the-badge&logo=hyprland&logoColor=white&labelColor=111C1E"></a>
 </p>
 
 ## Stack
@@ -65,4 +63,4 @@ Before that, as a freelancer, I built REST APIs with Spring Boot and frontends w
 
 ## Contacto
 
-¿Hablamos? Escríbeme desde el [formulario de mi portafolio](https://w1llan.github.io/portfolio/) &nbsp; <a href="https://www.linkedin.com/in/william-andr%C3%A9s-63bb67178/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectemos-690920?style=flat-square&labelColor=111C1E" align="center"></a>
+¿Hablamos? Escríbeme desde el <a href="https://w1llan.github.io/portfolio/" target="_blank" rel="noopener noreferrer">formulario de mi portafolio</a> &nbsp; <a href="https://www.linkedin.com/in/william-andr%C3%A9s-63bb67178/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectemos-690920?style=flat-square&labelColor=111C1E" align="center"></a>
