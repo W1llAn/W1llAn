@@ -47,12 +47,12 @@ I build web applications end to end: REST APIs, databases, integrations and fron
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
-    <img alt="Estadísticas de GitHub" src="./assets/stats-light.svg" height="165">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/W1llAn/W1llAn/main/assets/stats-dark.svg">
+    <img alt="Estadísticas de GitHub" src="https://raw.githubusercontent.com/W1llAn/W1llAn/main/assets/stats-light.svg" height="165">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/top-langs-dark.svg">
-    <img alt="Lenguajes más usados" src="./assets/top-langs-light.svg" height="165">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/W1llAn/W1llAn/main/assets/top-langs-dark.svg">
+    <img alt="Lenguajes más usados" src="https://raw.githubusercontent.com/W1llAn/W1llAn/main/assets/top-langs-light.svg" height="165">
   </picture>
 </p>
 
